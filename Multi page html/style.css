@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: lightblue;
+    background-image: url("https://miro.medium.com/v2/resize:fit:1024/1*DUblwf5wpci3hVlmG4ZnDw.png");
+    background-size: cover;
+}
+
+
+#main-heading{
+    color: red;
+    text-align: center;
+}
